@@ -26,8 +26,7 @@
         },
         {
           "name": "Speed",
-          "ioValue": 1500,
-          "currentEquation": "1500"
+          "ioValue": 1500
         },
         {
           "name": "Cut Through",
@@ -62,8 +61,7 @@
       "ioValues": [
         {
           "name": "x length",
-          "ioValue": 60,
-          "currentEquation": "60"
+          "ioValue": 60
         },
         {
           "name": "y length",
@@ -83,8 +81,7 @@
         },
         {
           "name": "height",
-          "ioValue": 10,
-          "currentEquation": "10"
+          "ioValue": 10
         }
       ]
     }
