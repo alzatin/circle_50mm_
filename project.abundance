@@ -9,7 +9,7 @@
     {
       "atomType": "Gcode",
       "x": 0.7,
-      "y": 0.5,
+      "y": 0.4,
       "uniqueID": "id-12",
       "ioValues": [
         {
@@ -18,11 +18,13 @@
         },
         {
           "name": "Tool Size",
-          "ioValue": 6.35
+          "ioValue": 3.175,
+          "currentEquation": "3.175"
         },
         {
           "name": "Passes",
-          "ioValue": 20
+          "ioValue": 40,
+          "currentEquation": "40"
         },
         {
           "name": "Speed",
@@ -34,8 +36,8 @@
         },
         {
           "name": "Part Name",
-          "ioValue": "circle_50mm_",
-          "currentEquation": "circle_50mm_"
+          "ioValue": "rect_80mm_40passes",
+          "currentEquation": "rect_80mm_40passes"
         }
       ],
       "partName": "circle_50mm_",
@@ -61,11 +63,13 @@
       "ioValues": [
         {
           "name": "x length",
-          "ioValue": 60
+          "ioValue": 80,
+          "currentEquation": "80"
         },
         {
           "name": "y length",
-          "ioValue": 50
+          "ioValue": 80,
+          "currentEquation": "80"
         }
       ]
     },
